@@ -21,7 +21,7 @@ Inhaltlich gestützt auf [bmf.gv.at](https://www.bmf.gv.at), [arbeiterkammer.at]
 ### 1. Claude Code (lokal)
 
 ```bash
-/plugin install https://github.com/<dein-user>/austrian-tax-deductions
+/plugin install https://github.com/gabrielleti/austrian-tax-deductions
 ```
 
 Danach prüfen:
@@ -32,7 +32,7 @@ Danach prüfen:
 
 ### 2. claude.ai (Web & Mobile)
 
-1. Gepackte `.skill`-Datei herunterladen (aus dem neuesten [GitHub-Release](https://github.com/<dein-user>/austrian-tax-deductions/releases) oder selbst bauen, siehe unten).
+1. Gepackte `.skill`-Datei herunterladen (aus dem neuesten [GitHub-Release](https://github.com/gabrielleti/austrian-tax-deductions/releases) oder selbst bauen, siehe unten).
 2. In claude.ai in den Einstellungen **Skills → Upload** auswählen und `austrian-tax-deductions.skill` hochladen.
 3. Auf Mobile ist das Skill automatisch verfügbar, sobald es im Account eingespielt ist.
 
@@ -41,7 +41,7 @@ Danach prüfen:
 Wenn Cowork Plugin-Installs unterstützt:
 
 ```bash
-/plugin install https://github.com/<dein-user>/austrian-tax-deductions
+/plugin install https://github.com/gabrielleti/austrian-tax-deductions
 ```
 
 Alternativ die gleiche `.skill`-Datei wie bei claude.ai in Cowork hochladen.
