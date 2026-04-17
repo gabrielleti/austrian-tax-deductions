@@ -1,0 +1,26 @@
+{
+  "name": "gabrielleti-tax",
+  "id": "gabrielleti-tax",
+  "owner": {
+    "name": "gabrielleti"
+  },
+  "metadata": {
+    "description": "Österreichische Steuerabsetzungen — Skill für Claude Code",
+    "version": "0.1.0",
+    "repository": "https://github.com/gabrielleti/austrian-tax-deductions"
+  },
+  "plugins": [
+    {
+      "name": "austrian-tax-deductions",
+      "description": "Österreichische Steuerabsetzungen: ArbeitnehmerInnenveranlagung (L1), Selbständige (E1/E1a), Vermietung & Verpachtung (E1b), Kapitalerträge (E1kv). Wissen aus bmf.gv.at, arbeiterkammer.at und RIS; mit FinanzOnline-Walkthroughs.",
+      "source": "./",
+      "version": "0.1.0",
+      "author": {
+        "name": "gabrielleti"
+      },
+      "keywords": ["steuer", "österreich", "tax", "austria", "finanzamt", "finanzonline"],
+      "category": "finance",
+      "strict": false
+    }
+  ]
+}
