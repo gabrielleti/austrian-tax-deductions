@@ -1,0 +1,12 @@
+.DS_Store
+*.skill
+/build/
+/dist/
+/node_modules/
+__pycache__/
+*.pyc
+.venv/
+.env
+/personal/
+/private/
+*.local.md

@@ -1,0 +1,5 @@
+{
+  "name": "austrian-tax-deductions",
+  "version": "0.1.0",
+  "description": "Österreichische Steuerabsetzungen: ArbeitnehmerInnenveranlagung (L1), Selbständige (E1/E1a), Vermietung & Verpachtung (E1b), Kapitalerträge (E1kv). Wissen aus bmf.gv.at, arbeiterkammer.at und RIS; mit FinanzOnline-Walkthroughs."
+}
